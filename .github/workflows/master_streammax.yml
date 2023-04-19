@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'streammax'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C1C14BC96CFD4026B9D00B8606E5F001 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EFA73062A80F437C92B4D2F2BA4DC0E5 }}
           package: .
